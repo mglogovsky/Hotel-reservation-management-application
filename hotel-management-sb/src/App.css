@@ -1,0 +1,20 @@
+.chatbox {
+  height: 69vh;
+  overflow-y: scroll;
+}
+
+.message {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.sender {
+  background-color: #ebf9da;
+  text-align: left;
+}
+
+.receiver {
+  background-color: #dbf2ff;
+  text-align: right;
+}
